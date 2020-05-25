@@ -1,2 +1,4 @@
 # Tic_Tac_Toe
- game build using vanilla java script.
+ <img align="left" width="400px" height="400px" src="images/win.png">
+<img align="left" width="400px" height="400px" src="images/draw.png">
+	
